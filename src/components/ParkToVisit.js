@@ -1,6 +1,5 @@
 import React from 'react'
 import {makeStyles} from '@material-ui/core/styles';
-import Login from './Login';
 const useStyles = makeStyles((theme) => ({
 root:{
     height: '100vh',

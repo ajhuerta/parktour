@@ -1,0 +1,466 @@
+ParkCode,ParkName,Location,EntranceFee
+abli,Abraham Lincoln Birthplace National Historical Park,"lat:37.5858662, long:-85.67330523",0.00
+acad,Acadia National Park,"lat:44.409286, long:-68.247501",30.00
+adam,Adams National Historical Park,"lat:42.2553961, long:-71.01160356",15.00
+afam,African American Civil War Memorial,"lat:38.9166, long:-77.026",0.00
+afbg,African Burial Ground National Monument,"lat:40.71452681, long:-74.00447358",0.00
+agfo,Agate Fossil Beds National Monument,"lat:42.42170419, long:-103.753886",0.00
+alka,Ala Kahakai National Historic Trail,"lat:19.1446681090248, long:-155.890734293795",0.00
+alag,Alagnak Wild River,"lat:59.05180188, long:-156.112002",0.00
+anch,Alaska Public Lands,"lat:61.2188, long:-149.894536",0.00
+alca,Alcatraz Island,"lat:37.82676234, long:-122.4230206",39.90
+aleu,Aleutian Islands World War II National Historic Area,"lat:53.9143, long:-166.5197",6.00
+alfl,Alibates Flint Quarries National Monument,"lat:35.5819662, long:-101.6717008",0.00
+alpo,Allegheny Portage Railroad National Historic Site,"lat:40.42977467, long:-78.57431622",0.00
+amme,American Memorial Park,"lat:15.21680033, long:145.7231096",0.00
+amis,Amistad National Recreation Area,"lat:29.53539777, long:-101.075821",0.00
+anac,Anacostia Park,"lat:38.8782, long:-76.9703",0.00
+ande,Andersonville National Historic Site,"lat:32.19831758, long:-84.12988898",0.00
+anjo,Andrew Johnson National Historic Site,"lat:36.15624509, long:-82.83709021",0.00
+ania,Aniakchak National Monument & Preserve,"lat:56.85317675, long:-157.5544362",0.00
+anti,Antietam National Battlefield,"lat:39.46763452, long:-77.73828017",10.00
+apis,Apostle Islands National Lakeshore,"lat:46.96240467, long:-90.66045665",0.00
+appa,Appalachian National Scenic Trail,"lat:40.41029575, long:-76.4337548",0.00
+apco,Appomattox Court House National Historical Park,"lat:37.38022164, long:-78.79856982",0.00
+arch,Arches National Park,"lat:38.72261844, long:-109.5863666",30.00
+arpo,Arkansas Post National Memorial,"lat:34.00389998, long:-91.30837178",0.00
+arho,"Arlington House, The Robert E. Lee Memorial","lat:38.8822021484375, long:-77.0734786987305",0.00
+asis,Assateague Island National Seashore,"lat:38.05593172, long:-75.24524611",25.00
+azru,Aztec Ruins National Monument,"lat:36.83682216, long:-107.9999245",0.00
+badl,Badlands National Park,"lat:43.68584846, long:-102.482942",30.00
+bawa,Baltimore-Washington Parkway,"lat:39.02604289, long:-76.85410921",0.00
+band,Bandelier National Monument,"lat:35.77898596, long:-106.3317124",25.00
+bepa,Belmont-Paul Women's Equality National Monument,"lat:38.89231541, long:-77.00381882",0.00
+beol,Bent's Old Fort National Historic Site,"lat:38.03977546, long:-103.4266499",3.00
+bela,Bering Land Bridge National Preserve,"lat:65.96087902, long:-164.4086432",0.00
+bibe,Big Bend National Park,"lat:29.29817767, long:-103.2297897",30.00
+bicy,Big Cypress National Preserve,"lat:25.97079602, long:-81.08120629",0.00
+biho,Big Hole National Battlefield,"lat:45.64647324, long:-113.6458443",0.00
+biso,Big South Fork National River & Recreation Area,"lat:36.5348388, long:-84.66506688",0.00
+bith,Big Thicket National Preserve,"lat:30.4579834310497, long:-94.3867421150208",0.00
+bica,Bighorn Canyon National Recreation Area,"lat:45.13154227, long:-108.1443943",0.00
+bicr,Birmingham Civil Rights National Monument,"lat:33.5154266357422, long:-86.8146667480469",0.00
+bisc,Biscayne National Park,"lat:25.490587, long:-80.21023851",0.00
+blca,Black Canyon Of The Gunnison National Park,"lat:38.57779869, long:-107.7242756",30.00
+blrv,Blackstone River Valley National Historical Park,"lat:41.8775792791768, long:-71.3824339450125",0.00
+blri,Blue Ridge Parkway,"lat:35.5657195273801, long:-82.4864845870113",0.00
+blue,Bluestone National Scenic River,"lat:37.56577087, long:-80.98366657",0.00
+bowa,Booker T Washington National Monument,"lat:37.11520539, long:-79.73185833",0.00
+boaf,Boston African American National Historic Site,"lat:42.35908295, long:-71.06764181",0.00
+boha,Boston Harbor Islands National Recreation Area,"lat:42.30905526, long:-70.93941138",0.00
+bost,Boston National Historical Park,"lat:42.36957407, long:-71.05536763",0.00
+brcr,Brices Cross Roads National Battlefield Site,"lat:34.50611958, long:-88.72889343",0.00
+brvb,Brown v. Board of Education National Historic Site,"lat:39.03787665, long:-95.67614437",0.00
+brca,Bryce Canyon National Park,"lat:37.58399144, long:-112.1826689",35.00
+buis,Buck Island Reef National Monument,"lat:17.81026717, long:-64.6222179",0.00
+buff,Buffalo National River,"lat:36.04116481, long:-92.90761584",0.00
+cabr,Cabrillo National Monument,"lat:32.6722503, long:-117.2415985",20.00
+cali,California National Historic Trail,"lat:42.3999643979285, long:-108.702415369046",0.00
+cane,Camp Nelson National Monument,"lat:37.7970179912726, long:-84.5981683059999",0.00
+cana,Canaveral National Seashore,"lat:28.78637529, long:-80.75419576",20.00
+cari,Cane River Creole National Historical Park,"lat:31.65408447, long:-93.00131977",0.00
+cach,Canyon de Chelly National Monument,"lat:36.14319567, long:-109.3388303",0.00
+cany,Canyonlands National Park,"lat:38.24555783, long:-109.8801624",30.00
+caco,Cape Cod National Seashore,"lat:41.92381465, long:-70.04319832",25.00
+caha,Cape Hatteras National Seashore,"lat:35.41370839, long:-75.65061112",0.00
+came,Cape Henry Memorial Part of Colonial National Historical Park,"lat:36.9278094, long:-76.0088219",0.00
+cakr,Cape Krusenstern National Monument,"lat:67.41499986, long:-163.5037786",0.00
+calo,Cape Lookout National Seashore,"lat:34.8267961, long:-76.34319082",0.00
+cahi,Capitol Hill Parks,"lat:38.889993, long:-76.990332",0.00
+care,Capitol Reef National Park,"lat:38.2821653130533, long:-111.247048377991",20.00
+cajo,Captain John Smith Chesapeake National Historic Trail,"lat:38.971601, long:-76.483355",0.00
+cavo,Capulin Volcano National Monument,"lat:36.78171096, long:-103.9710427",20.00
+carl,Carl Sandburg Home National Historic Site,"lat:35.26815509, long:-82.45106258",0.00
+cave,Carlsbad Caverns National Park,"lat:32.14089463, long:-104.5529688",15.00
+cawo,Carter G. Woodson Home National Historic Site,"lat:38.91089286, long:-77.02431104",0.00
+cagr,Casa Grande Ruins National Monument,"lat:32.99702582, long:-111.5325383",0.00
+casa,Castillo de San Marcos National Monument,"lat:29.89785701, long:-81.31217173",15.00
+cacl,Castle Clinton National Monument,"lat:40.70347795, long:-74.01680558",0.00
+camo,Castle Mountains National Monument,"lat:35.29156348, long:-115.0935606",0.00
+cato,Catoctin Mountain Park,"lat:39.65068457, long:-77.46417665",0.00
+cebr,Cedar Breaks National Monument,"lat:37.63545562, long:-112.845268",10.00
+cebe,Cedar Creek & Belle Grove National Historical Park,"lat:39.0093576, long:-78.30618934",0.00
+chcu,Chaco Culture National Historical Park,"lat:36.03963414, long:-107.9560076",25.00
+cham,Chamizal National Memorial,"lat:31.76729634, long:-106.4544011",0.00
+chis,Channel Islands National Park,"lat:33.98680093, long:-119.9112735",0.00
+chpi,Charles Pinckney National Historic Site,"lat:32.84577392, long:-79.82487582",0.00
+chyo,Charles Young Buffalo Soldiers National Monument,"lat:39.70817829, long:-83.89328575",0.00
+chat,Chattahoochee River National Recreation Area,"lat:33.99698333, long:-84.28953177",0
+choh,Chesapeake & Ohio Canal National Historical Park,"lat:39.0002836919553, long:-77.2481399539388",20.00
+cbpo,Chesapeake Bay,"lat:38.971601, long:-76.483355",0.00
+chch,Chickamauga & Chattanooga National Military Park,"lat:34.94317623, long:-85.28749537",10.00
+chic,Chickasaw National Recreation Area,"lat:34.46050507, long:-97.00715669",0.00
+chir,Chiricahua National Monument,"lat:32.01214618, long:-109.341607",0.00
+chri,Christiansted National Historic Site,"lat:17.73771903, long:-64.72906227",7.00
+ciro,City Of Rocks National Reserve,"lat:42.0699024, long:-113.7124097",0.00
+cwdw,Civil War Defenses of Washington,"lat:38.9644, long:-77.0292",0.00
+clba,Clara Barton National Historic Site,"lat:38.96762882, long:-77.14009689",0.00
+colo,Colonial National Historical Park,"lat:37.22824435, long:-76.61998123",15.00
+colm,Colorado National Monument,"lat:39.05045016, long:-108.6920709",25.00
+colt,Coltsville National Historical Park,"lat:42.4677505493164, long:-73.2036666870117",0.00
+cong,Congaree National Park,"lat:33.79187523, long:-80.74867805",0.00
+coga,Constitution Gardens,"lat:38.8909354, long:-77.04409306",0.00
+coro,Coronado National Memorial,"lat:31.34900397, long:-110.2561574",0.00
+cowp,Cowpens National Battlefield,"lat:35.13160654, long:-81.80935433",0.00
+crla,Crater Lake National Park,"lat:42.94065854, long:-122.1338414",30.00
+crmo,Craters Of The Moon National Monument & Preserve,"lat:43.20345611, long:-113.4791609",20.00
+cuga,Cumberland Gap National Historical Park,"lat:36.62503076, long:-83.6114083",0.00
+cuis,Cumberland Island National Seashore,"lat:30.85857484, long:-81.45253575",10.00
+cure,Curecanti National Recreation Area,"lat:38.46584558, long:-107.3303371",0.00
+cuva,Cuyahoga Valley National Park,"lat:41.26093905, long:-81.57116722",0.00
+cech,César E. Chávez National Monument,"lat:35.22729389, long:-118.5615781",0.00
+daav,Dayton Aviation Heritage National Historical Park,"lat:39.78944467, long:-84.10442045",0.00
+deso,De Soto National Memorial,"lat:27.52272613, long:-82.64335416",0.00
+deva,Death Valley National Park,"lat:36.48753731, long:-117.134395",30.00
+dewa,Delaware Water Gap National Recreation Area,"lat:41.12793491, long:-74.94751173",0.00
+dena,Denali National Park & Preserve,"lat:63.29777484, long:-151.0526568",15.00
+depo,Devils Postpile National Monument,"lat:37.6152564, long:-119.0873903",15.00
+deto,Devils Tower National Monument,"lat:44.59064655, long:-104.7156341",25.00
+dino,Dinosaur National Monument,"lat:40.50739742, long:-108.9333714",25.00
+drto,Dry Tortugas National Park,"lat:24.628741, long:-82.87319",15.00
+ddem,Dwight D. Eisenhower Memorial,"lat:38.8869476647494, long:-77.0187375540026",0.00
+ebla,Ebey's Landing National Historical Reserve,"lat:48.21403036, long:-122.6877213",0.00
+edal,Edgar Allan Poe National Historic Site,"lat:39.96195482, long:-75.1500062",0.00
+efmo,Effigy Mounds National Monument,"lat:43.08095081, long:-91.19687517",0.00
+eise,Eisenhower National Historic Site,"lat:39.79577592, long:-77.26508101",0
+elca,El Camino Real de Tierra Adentro National Historic Trail,"lat:33.7990672546168, long:-106.866386194673",0.00
+elte,El Camino Real de los Tejas National Historic Trail,"lat:30.0922964581204, long:-97.3397666724756",0.00
+elma,El Malpais National Monument,"lat:34.88422799, long:-107.9950948",0.00
+elmo,El Morro National Monument,"lat:35.03895916, long:-108.3463984",0.00
+elro,Eleanor Roosevelt National Historic Site,"lat:41.76208482, long:-73.89894026",0.00
+elis,Ellis Island Part of Statue of Liberty National Monument,"lat:40.69946, long:-74.0401",0.00
+euon,Eugene O'Neill National Historic Site,"lat:37.82604456, long:-122.0271566",0.00
+ever,Everglades National Park,"lat:25.37294225, long:-80.88200301",30.00
+feha,Federal Hall National Memorial,"lat:40.70731192, long:-74.01025636",0.00
+fiis,Fire Island National Seashore,"lat:40.69668638, long:-73.00013462",0.00
+fila,First Ladies National Historic Site,"lat:40.79689857, long:-81.37579869",7.00
+frst,First State National Historical Park,"lat:39.83076929, long:-75.56353942",0.00
+flni,Flight 93 National Memorial,"lat:40.06061476, long:-78.89456905",0.00
+flfo,Florissant Fossil Beds National Monument,"lat:38.91260586, long:-105.2803396",10.00
+foth,Ford's Theatre,"lat:38.89668819, long:-77.02577944",0.00
+fobo,Fort Bowie National Historic Site,"lat:32.14925942, long:-109.451132",0.00
+foda,Fort Davis National Historic Site,"lat:30.59930381, long:-103.8961904",10.00
+fodo,Fort Donelson National Battlefield,"lat:36.49019078, long:-87.92445695",0.00
+fodu,Fort Dupont Park,"lat:38.87731289, long:-76.94955824",0.00
+fofo,Fort Foote Park,"lat:38.76901785, long:-77.02812387",0.00
+fofr,Fort Frederica National Monument,"lat:31.2214699, long:-81.39452014",0.00
+fola,Fort Laramie National Historic Site,"lat:42.20301694, long:-104.5459112",0.00
+fols,Fort Larned National Historic Site,"lat:38.18047491, long:-99.21836664",0.00
+foma,Fort Matanzas National Monument,"lat:29.7121489, long:-81.23567535",0.00
+fomc,Fort McHenry National Monument and Historic Shrine,"lat:39.26395314, long:-76.58044165",15.00
+fomr,Fort Monroe National Monument,"lat:37.01733343, long:-76.30103195",0.00
+fone,Fort Necessity National Battlefield,"lat:39.81306048, long:-79.59033344",0.00
+fopo,Fort Point National Historic Site,"lat:37.80837439, long:-122.473747",0.00
+fopu,Fort Pulaski National Monument,"lat:32.0308274, long:-80.93361681",10.00
+fora,Fort Raleigh National Historic Site,"lat:35.93278602, long:-75.71496865",0.00
+fosc,Fort Scott National Historic Site,"lat:37.84358849, long:-94.70429174",0.00
+fosm,Fort Smith National Historic Site,"lat:35.38834746, long:-94.43129079",10.00
+fost,Fort Stanwix National Monument,"lat:43.21053441, long:-75.45557626",0.00
+fosu,Fort Sumter and Fort Moultrie National Historical Park,"lat:32.75654469, long:-79.87068744",10.00
+foun,Fort Union National Monument,"lat:35.90700629, long:-105.0145185",0.00
+fous,Fort Union Trading Post National Historic Site,"lat:48.00075828, long:-104.0375238",0.00
+fova,Fort Vancouver National Historic Site,"lat:45.62234841, long:-122.6617043",10.00
+fowa,Fort Washington Park,"lat:38.7117, long:-77.0302",0.00
+fobu,Fossil Butte National Monument,"lat:41.85635223, long:-110.7624754",0.00
+frde,Franklin Delano Roosevelt Memorial,"lat:38.88341274, long:-77.04311542",0.00
+frdo,Frederick Douglass National Historic Site,"lat:38.86298458, long:-76.98508147",0.00
+frla,Frederick Law Olmsted National Historic Site,"lat:42.32424266, long:-71.13202567",0.00
+frsp,Fredericksburg & Spotsylvania National Military Park,"lat:38.29378, long:-77.46734",0.00
+frri,Freedom Riders National Monument,"lat:33.6352691650391, long:-85.9064331054688",0.00
+frhi,Friendship Hill National Historic Site,"lat:39.77543423, long:-79.92504169",0.00
+gaar,Gates Of The Arctic National Park & Preserve,"lat:67.75961636, long:-153.2917758",0.00
+jeff,Gateway Arch National Park,"lat:38.6258069, long:-90.1892508",3.00
+gate,Gateway National Recreation Area,"lat:40.56536246, long:-73.9171087",20.00
+gari,Gauley River National Recreation Area,"lat:38.20614947, long:-81.00420836",0.00
+gegr,General Grant National Memorial,"lat:40.81332817, long:-73.96331542",0.00
+gero,George Rogers Clark National Historical Park,"lat:38.67912659, long:-87.53545212",0.00
+gewa,George Washington Birthplace National Monument,"lat:38.19362603, long:-76.92079458",0.00
+gwca,George Washington Carver National Monument,"lat:36.9871322, long:-94.35522737",0.00
+gwmp,George Washington Memorial Parkway,"lat:38.9628, long:-77.1495",20.00
+gett,Gettysburg National Military Park,"lat:39.81557366, long:-77.23246758",0.00
+gicl,Gila Cliff Dwellings National Monument,"lat:33.22715258, long:-108.2706711",0.00
+glba,Glacier Bay National Park & Preserve,"lat:58.80086718, long:-136.8407579",0.00
+glac,Glacier National Park,"lat:48.68414678, long:-113.8009306",35.00
+glca,Glen Canyon National Recreation Area,"lat:36.9357464676887, long:-111.485594268007",30.00
+glec,Glen Echo Park,"lat:38.96912315, long:-77.14012206",0.00
+glde,Gloria Dei Church National Historic Site,"lat:39.93435005, long:-75.14398924",0.00
+goga,Golden Gate National Recreation Area,"lat:37.85982543, long:-122.6007386",0.00
+gosp,Golden Spike National Historical Park,"lat:41.61947508, long:-112.5242653",20.00
+gois,Governors Island National Monument,"lat:40.69164233, long:-74.01670765",0.00
+grca,Grand Canyon National Park,"lat:36.0001165336017, long:-112.12151636301",35.00
+para,Grand Canyon-Parashant National Monument,"lat:36.41535465, long:-113.6682797",0.00
+grpo,Grand Portage National Monument,"lat:47.99294217, long:-89.75573031",0.00
+grte,Grand Teton National Park,"lat:43.81853565, long:-110.7054666",35.00
+grko,Grant-Kohrs Ranch National Historic Site,"lat:46.41358923, long:-112.7467024",0.00
+grba,Great Basin National Park,"lat:38.94617378, long:-114.2579782",0.00
+greg,Great Egg Harbor River,"lat:39.3042, long:-74.6497",0.00
+grfa,Great Falls Park,"lat:38.98776107, long:-77.25128326",20.00
+grsa,Great Sand Dunes National Park & Preserve,"lat:37.79256812, long:-105.5919572",25.00
+grsm,Great Smoky Mountains National Park,"lat:35.60116374, long:-83.50818326",0.00
+grsp,Green Springs,"lat:38.037099, long:-78.189823",0.00
+gree,Greenbelt Park,"lat:38.98328267, long:-76.89722133",0.00
+gumo,Guadalupe Mountains National Park,"lat:31.92304462, long:-104.885527",10.00
+guco,Guilford Courthouse National Military Park,"lat:36.13225478, long:-79.8424561",0.00
+guis,Gulf Islands National Seashore,"lat:30.29924926, long:-87.75064297",15.00
+hafo,Hagerman Fossil Beds National Monument,"lat:42.79074114, long:-114.9443074",0.00
+hale,Haleakalā National Park,"lat:20.70693015, long:-156.1591775",30.00
+hagr,Hamilton Grange National Memorial,"lat:40.81871605, long:-73.94878487",0.00
+hamp,Hampton National Historic Site,"lat:39.4175296, long:-76.58781182",0.00
+haha,Harmony Hall,"lat:38.74646351, long:-77.00377069",0.00
+hafe,Harpers Ferry National Historical Park,"lat:39.31865949, long:-77.74088546",20.00
+hart,Harriet Tubman National Historical Park,"lat:42.9128920286894, long:-76.5646715462208",0
+hatu,Harriet Tubman Underground Railroad National Historical Park,"lat:38.4548643510713, long:-76.1373451375579",0.00
+hstr,Harry S Truman National Historic Site,"lat:38.92711967, long:-94.5162488",0.00
+havo,Hawaiʻi Volcanoes National Park,"lat:19.3355036, long:-155.4700257",30.00
+heho,Herbert Hoover National Historic Site,"lat:41.66793558, long:-91.35232139",0.00
+jame,Historic Jamestowne Part of Colonial National Historical Park,"lat:37.2065, long:-76.7538",25.00
+hofr,Home Of Franklin D Roosevelt National Historic Site,"lat:41.76639758, long:-73.92516857",10.00
+home,Homestead National Historical Park,"lat:40.28802381, long:-96.83387781",0.00
+hono,Honouliuli National Historic Site,"lat:21.38817536, long:-158.0574991",0
+hocu,Hopewell Culture National Historical Park,"lat:39.31594374, long:-83.08049456",0.00
+hofu,Hopewell Furnace National Historic Site,"lat:40.20610637, long:-75.76766355",0.00
+hobe,Horseshoe Bend National Military Park,"lat:32.97668879, long:-85.73413589",0.00
+hosp,Hot Springs National Park,"lat:34.52414366, long:-93.06332936",0.00
+hove,Hovenweep National Monument,"lat:37.39134092, long:-109.0047977",0.00
+hutr,Hubbell Trading Post National Historic Site,"lat:35.70727324, long:-109.5599515",2.00
+iafl,Ice Age Floods National Geologic Trail,"lat:46.5669309007871, long:-118.992564971161",0.00
+iatr,Ice Age National Scenic Trail,"lat:43.9895697794196, long:-89.5612021705858",0.00
+inde,Independence National Historical Park,"lat:39.94746112, long:-75.14794157",1.00
+indu,Indiana Dunes National Park,"lat:41.63765525, long:-87.09647445",6.00
+isro,Isle Royale National Park,"lat:48.01145819, long:-88.82780657",7.00
+inup,Iñupiat Heritage Center,"lat:71.29832445, long:-156.7535863",10.00
+jaga,James A Garfield National Historic Site,"lat:41.66486549, long:-81.35086557",10.00
+jela,Jean Lafitte National Historical Park and Preserve,"lat:29.81739855, long:-90.1402241",0.00
+jeca,Jewel Cave National Monument,"lat:43.73102945, long:-103.829994",12.00
+jica,Jimmy Carter National Historical Park,"lat:32.03611, long:-84.3924",0.00
+joda,John Day Fossil Beds National Monument,"lat:44.62566508, long:-119.8811491",0.00
+jofi,John Fitzgerald Kennedy National Historic Site,"lat:42.34693694, long:-71.12323846",0.00
+jomu,John Muir National Historic Site,"lat:37.9828422, long:-122.1326097",0.00
+jofl,Johnstown Flood National Memorial,"lat:40.34584534, long:-78.77448601",0.00
+jotr,Joshua Tree National Park,"lat:33.91418525, long:-115.8398125",30.00
+juba,Juan Bautista de Anza National Historic Trail,"lat:33.8743390993837, long:-117.224179856507",0.00
+kala,Kalaupapa National Historical Park,"lat:21.1731108, long:-156.9511609",0.00
+kaho,Kaloko-Honokōhau National Historical Park,"lat:19.68083237, long:-156.0306932",0.00
+kaww,Katahdin Woods and Waters National Monument,"lat:45.9567565917969, long:-68.712287902832",0.00
+katm,Katmai National Park & Preserve,"lat:58.62235668, long:-155.0126574",0.00
+kefj,Kenai Fjords National Park,"lat:59.81804414, long:-150.106502",0.00
+keaq,Kenilworth Park & Aquatic Gardens,"lat:38.9128, long:-76.9434",0.00
+kemo,Kennesaw Mountain National Battlefield Park,"lat:33.95370717, long:-84.59214186",5.00
+kewe,Keweenaw National Historical Park,"lat:47.1792308, long:-88.52275344",0.00
+kimo,Kings Mountain National Military Park,"lat:35.13900723, long:-81.38978712",0.00
+klse,Klondike Gold Rush - Seattle Unit National Historical Park,"lat:47.5993663, long:-122.3319664",0.00
+klgo,Klondike Gold Rush National Historical Park,"lat:59.61042373, long:-135.2618535",0.00
+knri,Knife River Indian Villages National Historic Site,"lat:47.3540219, long:-101.3860533",0.00
+kova,Kobuk Valley National Park,"lat:67.35631336, long:-159.2002293",0.00
+kowa,Korean War Veterans Memorial,"lat:38.88784226, long:-77.04773857",0.00
+lyba,LBJ Memorial Grove on the Potomac,"lat:38.87858036, long:-77.05145832",0.00
+lacl,Lake Clark National Park & Preserve,"lat:60.57405857, long:-153.55535",0.00
+lake,Lake Mead National Recreation Area,"lat:35.96622528, long:-114.3469067",25.00
+lamr,Lake Meredith National Recreation Area,"lat:35.61926203, long:-101.6820066",0.00
+laro,Lake Roosevelt National Recreation Area,"lat:48.17148735, long:-118.3513713",8.00
+lavo,Lassen Volcanic National Park,"lat:40.49354575, long:-121.4075993",10.00
+labe,Lava Beds National Monument,"lat:41.75915823, long:-121.5172189",25.00
+lecl,Lewis & Clark National Historic Trail,"lat:41.2646141052246, long:-95.9245147705078",0.00
+lewi,Lewis and Clark National Historical Park,"lat:46.21178735, long:-123.9638583",10.00
+libo,Lincoln Boyhood National Memorial,"lat:38.11817004, long:-86.99656861",0.00
+liho,Lincoln Home National Historic Site,"lat:39.79715642, long:-89.64513397",0.00
+linc,Lincoln Memorial,"lat:38.88927229, long:-77.05017778",0.00
+libi,Little Bighorn Battlefield National Monument,"lat:45.55633048, long:-107.4183614",15.00
+liri,Little River Canyon National Preserve,"lat:34.41461863, long:-85.61734327",15.00
+chsc,Little Rock Central High School National Historic Site,"lat:34.7369465, long:-92.29987899",0.00
+long,Longfellow House Washington's Headquarters National Historic Site,"lat:42.37698854, long:-71.12636956",0.00
+lowe,Lowell National Historical Park,"lat:42.6455371, long:-71.31588673",6.00
+lode,Lower Delaware National Wild and Scenic River,"lat:40.4000389, long:-74.983737",0.00
+loea,Lower East Side Tenement Museum National Historic Site,"lat:40.7187683, long:-73.99001245",30.00
+lyjo,Lyndon B Johnson National Historical Park,"lat:30.2519655, long:-98.60692433",0.00
+mawa,Maggie L Walker National Historic Site,"lat:37.54781499, long:-77.43746979",0.00
+maac,Maine Acadian Culture,"lat:47.25102114, long:-68.59447532",0.00
+maca,Mammoth Cave National Park,"lat:37.19760458, long:-86.13090198",0.00
+mana,Manassas National Battlefield Park,"lat:38.81710063, long:-77.5353468",0.00
+mapr,Manhattan Project National Historical Park,"lat:35.88096, long:-106.30214",0.00
+manz,Manzanar National Historic Site,"lat:36.72559195, long:-118.1547177",0.00
+mabi,Marsh - Billings - Rockefeller National Historical Park,"lat:43.63348732, long:-72.53424638",8.00
+mlkm,"Martin Luther King, Jr. Memorial","lat:38.8862276865, long:-77.0442195534",0.00
+malu,"Martin Luther King, Jr. National Historical Park","lat:33.75618241, long:-84.37256768",0.00
+mava,Martin Van Buren National Historic Site,"lat:42.36819596, long:-73.70834257",0.00
+mamc,Mary McLeod Bethune Council House National Historic Site,"lat:38.90819107, long:-77.03096742",0.00
+memy,Medgar and Myrlie Evers Home National Monument,"lat:32.34096274, long:-90.21264553",0
+meve,Mesa Verde National Park,"lat:37.23908345, long:-108.4624032",30.00
+misp,Mill Springs Battlefield National Monument,"lat:37.068815860168, long:-84.7375361304372",0.00
+miin,Minidoka National Historic Site,"lat:42.80586068, long:-114.4449868",0.00
+mima,Minute Man National Historical Park,"lat:42.4562778, long:-71.30738884",0.00
+mimi,Minuteman Missile National Historic Site,"lat:43.89558013, long:-102.0272131",0.00
+miss,Mississippi National River and Recreation Area,"lat:44.942487, long:-93.098712",0.00
+mnrr,Missouri National Recreational River,"lat:42.7882189, long:-97.59077822",0.00
+moja,Mojave National Preserve,"lat:35.12485941, long:-115.5168258",0.00
+mono,Monocacy National Battlefield,"lat:39.36084236, long:-77.39637677",0.00
+moca,Montezuma Castle National Monument,"lat:34.62237771, long:-111.8147857",10.00
+mocr,Moores Creek National Battlefield,"lat:34.45820776, long:-78.11031134",0.00
+mopi,Mormon Pioneer National Historic Trail,"lat:41.2650321741355, long:-101.84083755965",0.00
+morr,Morristown National Historical Park,"lat:40.7650755, long:-74.53455122",0.00
+mora,Mount Rainier National Park,"lat:46.86075416, long:-121.7043885",30.00
+moru,Mount Rushmore National Memorial,"lat:43.88037021, long:-103.4525186",0.00
+muwo,Muir Woods National Monument,"lat:37.89658027, long:-122.5808047",15.00
+natc,Natchez National Historical Park,"lat:31.54697621, long:-91.39040665",10.00
+natt,Natchez Trace National Scenic Trail,"lat:34.3302903330188, long:-88.7100104093552",0.00
+natr,Natchez Trace Parkway,"lat:33.78002293, long:-89.03092439",0.00
+nace,National Capital Parks-East,"lat:38.8659, long:-76.994",0.00
+nama,National Mall and Memorial Parks,"lat:38.8899, long:-77.026",0.00
+npsa,National Park of American Samoa,"lat:-14.22865935, long:-169.8503777",0.00
+npnh,National Parks of New York Harbor,"lat:40.6632, long:-74.0451",0.00
+nabr,Natural Bridges National Monument,"lat:37.6045329, long:-110.0022436",20.00
+nava,Navajo National Monument,"lat:36.71755643, long:-110.5504015",0.00
+nebe,New Bedford Whaling National Historical Park,"lat:41.63540552, long:-70.92322321",0.00
+neen,New England National Scenic Trail,"lat:42.2915819136851, long:-72.5242767333984",0.00
+pine,New Jersey Pinelands National Reserve,"lat:39.9384, long:-74.625",0.00
+jazz,New Orleans Jazz National Historical Park,"lat:29.96303129, long:-90.06749669",0.00
+neri,New River Gorge National Park and Preserve,"lat:37.86878554, long:-80.99956002",0.00
+nepe,Nez Perce National Historical Park,"lat:46.07019093, long:-115.8761258",0.00
+nico,Nicodemus National Historic Site,"lat:39.39167606, long:-99.61680329",0.00
+nisi,Ninety Six National Historic Site,"lat:34.14273587, long:-82.01636079",0.00
+niob,Niobrara National Scenic River,"lat:42.79413083, long:-99.91870646",0.00
+noat,Noatak National Preserve,"lat:68.01027053, long:-159.831694",0.00
+noca,North Cascades National Park,"lat:48.71171756, long:-121.2069423",0.00
+noco,North Country National Scenic Trail,"lat:46.3344007429818, long:-90.8165630499445",0.00
+obed,Obed Wild & Scenic River,"lat:36.1056026036731, long:-84.5979170501232",0.00
+ocmu,Ocmulgee Mounds National Historical Park,"lat:32.83816576, long:-83.60224853",0.00
+okci,Oklahoma City National Memorial,"lat:35.473, long:-97.5171",0.00
+olsp,Old Spanish National Historic Trail,"lat:37.0791782514048, long:-112.114693431482",0.00
+olym,Olympic National Park,"lat:47.80392754, long:-123.6663848",30.00
+orca,Oregon Caves National Monument & Preserve,"lat:42.10319143, long:-123.4018586",0.00
+oreg,Oregon National Historic Trail,"lat:41.9876977830751, long:-109.634200840537",0.00
+orpi,Organ Pipe Cactus National Monument,"lat:32.03585543, long:-112.8573314",25.00
+ovvi,Overmountain Victory National Historic Trail,"lat:35.14044, long:-81.377",0.00
+oxhi,Oxon Cove Park & Oxon Hill Farm,"lat:38.80578214, long:-77.01131457",0.00
+ozar,Ozark National Scenic Riverways,"lat:37.13968894, long:-91.25709817",0.00
+pais,Padre Island National Seashore,"lat:27.05381186, long:-97.35901135",25.00
+paal,Palo Alto Battlefield National Historical Park,"lat:26.02387351, long:-97.46296072",0.00
+pagr,Paterson Great Falls National Historical Park,"lat:40.91584645, long:-74.18021494",0.00
+peri,Pea Ridge National Military Park,"lat:36.45438033, long:-94.03468357",0.00
+valr,Pearl Harbor National Memorial,"lat:21.3670699388264, long:-157.938578897697",0.00
+peco,Pecos National Historical Park,"lat:35.54192238, long:-105.6814684",0.00
+paav,Pennsylvania Avenue,"lat:38.89426856, long:-77.02506554",0.00
+pevi,Perry's Victory & International Peace Memorial,"lat:41.65449782, long:-82.8115794",10.00
+pete,Petersburg National Battlefield,"lat:37.19109957, long:-77.47594865",0.00
+pefo,Petrified Forest National Park,"lat:34.98387664, long:-109.7877678",25.00
+petr,Petroglyph National Monument,"lat:35.13915998, long:-106.7491456",2.00
+piro,Pictured Rocks National Lakeshore,"lat:46.56435642, long:-86.31628733",0.00
+pinn,Pinnacles National Park,"lat:36.49029208, long:-121.1813607",30.00
+pisp,Pipe Spring National Monument,"lat:36.86282666, long:-112.7398567",10.00
+pipe,Pipestone National Monument,"lat:44.01351958, long:-96.32475523",0.00
+pisc,Piscataway Park,"lat:38.6929, long:-77.067",0.00
+pore,Point Reyes National Seashore,"lat:38.05511241, long:-122.8797804",0.00
+poex,Pony Express National Historic Trail,"lat:42.2365761127712, long:-109.26614841717",0.00
+poch,Port Chicago Naval Magazine National Memorial,"lat:38.05685472, long:-122.0301603",0.00
+pohe,Potomac Heritage National Scenic Trail,"lat:39.15060133, long:-77.52301085",0.00
+popo,Poverty Point National Monument,"lat:32.6424361, long:-91.40829834",4.00
+wicl,President William Jefferson Clinton Birthplace Home National Historic Site,"lat:33.66758356, long:-93.59641868",0.00
+whho,President's Park (White House),"lat:38.89541886, long:-77.03654147",0.00
+prsf,Presidio of San Francisco,"lat:37.797, long:-122.4671",0.00
+prwi,Prince William Forest Park,"lat:38.58589108, long:-77.38910997",20.00
+pull,Pullman National Monument,"lat:41.69429163, long:-87.60873824",0.00
+puho,Puʻuhonua o Hōnaunau National Historical Park,"lat:19.41268627, long:-155.9008789",20.00
+puhe,Puʻukoholā Heiau National Historic Site,"lat:20.02772186, long:-155.8211629",0.00
+rabr,Rainbow Bridge National Monument,"lat:36.9943264317074, long:-111.491484759378",0.00
+reer,Reconstruction Era National Historical Park,"lat:32.3868598937988, long:-80.6511077880859",0.00
+redw,Redwood National and State Parks,"lat:41.37237268, long:-124.0318129",0.00
+rich,Richmond National Battlefield Park,"lat:37.48774472, long:-77.29107785",0.00
+rigr,Rio Grande Wild & Scenic River,"lat:29.52743158, long:-102.5979169",0.00
+rira,River Raisin National Battlefield Park,"lat:41.91291085, long:-83.37620464",0.00
+rocr,Rock Creek Park,"lat:38.95125063, long:-77.05002838",0.00
+romo,Rocky Mountain National Park,"lat:40.3556924, long:-105.6972879",25.00
+rowi,Roger Williams National Memorial,"lat:41.8298955, long:-71.41056665",0.00
+roca,Roosevelt Campobello International Park,"lat:44.8736, long:-66.9621",0.00
+rori,Rosie the Riveter WWII Home Front National Historical Park,"lat:37.90999027, long:-122.360156",0.00
+ruca,Russell Cave National Monument,"lat:34.97402063, long:-85.81560314",0.00
+sahi,Sagamore Hill National Historic Site,"lat:40.88579128, long:-73.49686438",0.00
+sagu,Saguaro National Park,"lat:32.20909636, long:-110.7574974",25.00
+sacr,Saint Croix Island International Historic Site,"lat:45.12858838, long:-67.13363651",0.00
+sacn,Saint Croix National Scenic Riverway,"lat:45.70019235, long:-92.36126685",0.00
+sapa,Saint Paul's Church National Historic Site,"lat:40.89283511, long:-73.82577276",0.00
+saga,Saint-Gaudens National Historical Park,"lat:43.4997238, long:-72.37333969",10.00
+sama,Salem Maritime National Historic Site,"lat:42.52024529, long:-70.88640867",0.00
+sapu,Salinas Pueblo Missions National Monument,"lat:34.35423203, long:-106.2050309",0.00
+sari,Salt River Bay National Historical Park and Ecological Preserve,"lat:17.77908602, long:-64.75519348",0.00
+saan,San Antonio Missions National Historical Park,"lat:29.31262089, long:-98.4289522",0.00
+safr,San Francisco Maritime National Historical Park,"lat:37.81005871, long:-122.4244415",15.00
+sajh,San Juan Island National Historical Park,"lat:48.51241933, long:-123.0610277",0.00
+saju,San Juan National Historic Site,"lat:18.46873857, long:-66.11848623",10.00
+sand,Sand Creek Massacre National Historic Site,"lat:38.56414189, long:-102.5169542",0.00
+safe,Santa Fe National Historic Trail,"lat:37.7276522225604, long:-99.9219692270385",0.00
+samo,Santa Monica Mountains National Recreation Area,"lat:34.09777606, long:-118.7708619",0.00
+sara,Saratoga National Historical Park,"lat:42.99522612, long:-73.63386108",0.00
+sair,Saugus Iron Works National Historic Site,"lat:42.46830664, long:-71.0076953",0.00
+scbl,Scotts Bluff National Monument,"lat:41.83464193, long:-103.7071351",0.00
+semo,Selma To Montgomery National Historic Trail,"lat:32.27082092, long:-86.72823702",0.00
+seki,Sequoia & Kings Canyon National Parks,"lat:36.71277299, long:-118.587429",35.00
+shen,Shenandoah National Park,"lat:38.49236644, long:-78.46907715",30.00
+shil,Shiloh National Military Park,"lat:35.13850907, long:-88.3421072",0.00
+sitk,Sitka National Historical Park,"lat:57.04718173, long:-135.3156876",0.00
+slbe,Sleeping Bear Dunes National Lakeshore,"lat:44.92844962, long:-86.02706591",25.00
+spar,Springfield Armory National Historic Site,"lat:42.1086368, long:-72.57967415",0.00
+stsp,Star-Spangled Banner National Historic Trail,"lat:39.2872505188, long:-76.6034317017",15.00
+stli,Statue Of Liberty National Monument,"lat:40.6898, long:-74.0451",0.00
+stge,Ste. Geneviève National Historical Park,"lat:37.9792171421179, long:-90.0432157516479",0.00
+stea,Steamtown National Historic Site,"lat:41.40757521, long:-75.67037255",0.00
+stri,Stones River National Battlefield,"lat:35.87608652, long:-86.43078399",0.00
+sucr,Sunset Crater Volcano National Monument,"lat:35.37114323, long:-111.510376",25.00
+tapr,Tallgrass Prairie National Preserve,"lat:38.44023613, long:-96.5670822",0.00
+thko,Thaddeus Kosciuszko National Memorial,"lat:39.94345312, long:-75.14732045",0.00
+thrb,Theodore Roosevelt Birthplace National Historic Site,"lat:40.7386469, long:-73.98903703",0.00
+thri,Theodore Roosevelt Inaugural National Historic Site,"lat:42.90146781, long:-78.87248411",10.00
+this,Theodore Roosevelt Island,"lat:38.89584162, long:-77.06241918",0.00
+thro,Theodore Roosevelt National Park,"lat:47.17777274, long:-103.4300083",30.00
+thco,Thomas Cole National Historic Site,"lat:42.22570607, long:-73.86154864",0
+edis,Thomas Edison National Historical Park,"lat:40.78549896, long:-74.23821139",15.00
+thje,Thomas Jefferson Memorial,"lat:38.88101431, long:-77.03632572",0.00
+thst,Thomas Stone National Historic Site,"lat:38.52934443, long:-77.037813",0.00
+tica,Timpanogos Cave National Monument,"lat:40.44039719, long:-111.7093944",0.00
+timu,Timucuan Ecological & Historic Preserve,"lat:30.47251894, long:-81.49950104",0.00
+tont,Tonto National Monument,"lat:33.64842945, long:-111.1135627",10.00
+tosy,Touro Synagogue National Historic Site,"lat:41.4893, long:-71.3121",12.00
+trte,Trail Of Tears National Historic Trail,"lat:36.0530021046485, long:-89.6761041963142",0.00
+tule,Tule Lake National Monument,"lat:41.88727902, long:-121.3744818",5.00
+tusk,Tule Springs Fossil Beds National Monument,"lat:36.3893217, long:-115.3202223",0.00
+tuma,Tumacácori National Historical Park,"lat:31.567824, long:-111.051223",10.00
+tupe,Tupelo National Battlefield,"lat:34.25557705, long:-88.73708623",0.00
+tuai,Tuskegee Airmen National Historic Site,"lat:32.45538671, long:-85.67983321",0.00
+tuin,Tuskegee Institute National Historic Site,"lat:32.42962115, long:-85.70488498",0.00
+tuzi,Tuzigoot National Monument,"lat:34.77296377, long:-112.0279069",10.00
+ulsg,Ulysses S Grant National Historic Site,"lat:38.55182374, long:-90.35169255",0.00
+upde,Upper Delaware Scenic & Recreational River,"lat:41.66172578, long:-75.03861562",0.00
+vall,Valles Caldera National Preserve,"lat:35.91682872, long:-106.5195724",25.00
+vafo,Valley Forge National Historical Park,"lat:40.10054985, long:-75.44581889",0.00
+vama,Vanderbilt Mansion National Historic Site,"lat:41.79697937, long:-73.94205557",10.00
+vick,Vicksburg National Military Park,"lat:32.3621286, long:-90.85030186",20.00
+vive,Vietnam Veterans Memorial,"lat:38.89096297, long:-77.04765735",0.00
+vicr,Virgin Islands Coral Reef National Monument,"lat:18.28996918, long:-64.70683395",0.00
+viis,Virgin Islands National Park,"lat:18.34279656, long:-64.74194451",0.00
+voya,Voyageurs National Park,"lat:48.48370609, long:-92.8382913",0.00
+waco,Waco Mammoth National Monument,"lat:31.60465887, long:-97.17606143",0.00
+waca,Walnut Canyon National Monument,"lat:35.16822994, long:-111.5024239",15.00
+wapa,War In The Pacific National Historical Park,"lat:13.43795691, long:144.6922461",0.00
+wamo,Washington Monument,"lat:38.88948, long:-77.035207",1.00
+waro,Washington-Rochambeau Revolutionary Route National Historic Trail,"lat:40.0958204556845, long:-74.8563515108944",0.00
+waba,Washita Battlefield National Historic Site,"lat:35.62083963, long:-99.70445143",0.00
+wefa,Weir Farm National Historical Park,"lat:41.25886268, long:-73.45452542",0.00
+whis,Whiskeytown National Recreation Area,"lat:40.61359941, long:-122.6022657",15.00
+whsa,White Sands National Park,"lat:32.77907858, long:-106.3333461",25.00
+whmi,Whitman Mission National Historic Site,"lat:46.04119286, long:-118.4629388",0.00
+wiho,William Howard Taft National Historic Site,"lat:39.11970352, long:-84.50758951",0.00
+wicr,Wilson's Creek National Battlefield,"lat:37.1000127, long:-93.40986704",10.00
+wica,Wind Cave National Park,"lat:43.58012365, long:-103.4394709",0.00
+wing,Wing Luke Museum Affiliated Area,"lat:47.59820859, long:-122.3228912",17.00
+wotr,Wolf Trap National Park for the Performing Arts,"lat:38.93854526, long:-77.265089",0.00
+wori,Women's Rights National Historical Park,"lat:42.90817073, long:-76.81655558",0.00
+wwim,World War I Memorial,"lat:38.8959, long:-77.0329",0.00
+wwii,World War II Memorial,"lat:38.88923917, long:-77.0403759",0.00
+wrst,Wrangell - St Elias National Park & Preserve,"lat:61.4182147, long:-142.6028439",0.00
+wrbr,Wright Brothers National Memorial,"lat:36.01637713, long:-75.66997163",10.00
+wupa,Wupatki National Monument,"lat:35.55741077, long:-111.3957216",25.00
+yell,Yellowstone National Park,"lat:44.59824417, long:-110.5471695",35.00
+york,Yorktown Battlefield Part of Colonial National Historical Park,"lat:37.2195, long:-76.4983",15.00
+yose,Yosemite National Park,"lat:37.84883288, long:-119.5571873",35.00
+yuho,Yucca House National Monument,"lat:37.24778944, long:-108.6861274",0.00
+yuch,Yukon - Charley Rivers National Preserve,"lat:65.0935608, long:-142.7960021",0.00
+zion,Zion National Park,"lat:37.29839254, long:-113.0265138",35.00
